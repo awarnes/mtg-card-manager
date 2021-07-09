@@ -1,0 +1,211 @@
+{
+  "artist": "Titus Lunter",
+  "availability": [
+    "arena",
+    "mtgo",
+    "paper"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "G",
+    "W"
+  ],
+  "colors": [],
+  "convertedManaCost": 0,
+  "edhrecRank": 2990,
+  "faceName": "Branchloft Pathway",
+  "flavorText": "\"Not for the bumble-footed nor wobble-stomached.\"\n—Kreq of Sunder Bay",
+  "foreignData": [
+    {
+      "faceName": "Schwebeholz-Höhenweg",
+      "flavorText": "„Nichts für Leute mit wackeligen Füßen oder schwachen Mägen.\"\n—Kreq von der Wrackbucht",
+      "language": "German",
+      "multiverseId": 492225,
+      "name": "Schwebeholz-Höhenweg // Schwebefels-Höhenweg",
+      "text": "{T}: Erzeuge {G}.\nLand\n{T}: Erzeuge {W}.",
+      "type": "Land"
+    },
+    {
+      "faceName": "Senda de Aticoenramado",
+      "flavorText": "\"No es para torpones ni para débiles de estómago\".\n—Kreq de la Bahía Desgarradora",
+      "language": "Spanish",
+      "multiverseId": 492541,
+      "name": "Senda de Aticoenramado // Senda de Aticopeñascos",
+      "text": "{T}: Agrega {G}.\nTierra\n{T}: Agrega {W}.",
+      "type": "Tierra"
+    },
+    {
+      "faceName": "Passage de Flottebranche",
+      "flavorText": "« Déconseillé à ceux qui n'ont pas le pied sûr ou qui ont l'estomac fragile. »\n—Kreq de la baie des Déchirements",
+      "language": "French",
+      "multiverseId": 492857,
+      "name": "Passage de Flottebranche // Passage de Flotteroche",
+      "text": "{T} : Ajoutez {G}.\nTerrain\n{T} : Ajoutez {W}.",
+      "type": "Terrain"
+    },
+    {
+      "faceName": "Cammino dei Rami Sospesi",
+      "flavorText": "\"Non è per i maldestri, né per i deboli di stomaco.\"\n—Kreq di Baia dello Sfascio",
+      "language": "Italian",
+      "multiverseId": 493173,
+      "name": "Cammino dei Rami Sospesi // Cammino dei Massi Sospesi",
+      "text": "{T}: Aggiungi {G}.\nTerra\n{T}: Aggiungi {W}.",
+      "type": "Terra"
+    },
+    {
+      "faceName": "枝重なる小道",
+      "flavorText": "「ヨロヨロ足やフラフラ腹には向かないな。」\n――切断湾のクレーク",
+      "language": "Japanese",
+      "multiverseId": 493489,
+      "name": "枝重なる小道 // 石重なる小道",
+      "text": "{T}：{G}を加える。\n土地\n{T}：{W}を加える。",
+      "type": "土地"
+    },
+    {
+      "faceName": "나무꼭대기 경로",
+      "flavorText": "\"갈팡질팡하는 놈도 멀미하는 놈도 여기엔 안 맞아.\"\n—산산조각난 만의 크레크",
+      "language": "Korean",
+      "multiverseId": 493805,
+      "name": "나무꼭대기 경로 // 바위꼭대기 경로",
+      "text": "{T}: {G}를 추가한다.\n대지\n{T}: {W}를 추가한다.",
+      "type": "대지"
+    },
+    {
+      "faceName": "Trilha dos Galhos Altos",
+      "flavorText": "\"Não é para os de pé frouxo nem de estômago fraco.\"\n— Kreq da Baía do Rachacasco",
+      "language": "Portuguese (Brazil)",
+      "multiverseId": 494121,
+      "name": "Trilha dos Galhos Altos // Trilha das Pedras Altas",
+      "text": "{T}: Adicione {G}.\nTerreno\n{T}: Adicione {W}.",
+      "type": "Terreno"
+    },
+    {
+      "faceName": "Тропа Нависающих Ветвей",
+      "flavorText": "«Тут не пройти ни неуклюжим ногам, ни слабым желудкам».\n— Крек из бухты Раскола",
+      "language": "Russian",
+      "multiverseId": 494437,
+      "name": "Тропа Нависающих Ветвей // Тропа Нависающих Скал",
+      "text": "{T}: добавьте {G}.\nЗемля\n{T}: добавьте {W}.",
+      "type": "Земля"
+    },
+    {
+      "faceName": "枝阁通路",
+      "flavorText": "「手脚不利落、肚量特别大的走不了。」\n～裂船湾的奎嘎",
+      "language": "Chinese Simplified",
+      "multiverseId": 494753,
+      "name": "枝阁通路 // 石阁通路",
+      "text": "{T}：加{G}。\n地\n{T}：加{W}。",
+      "type": "地"
+    },
+    {
+      "faceName": "枝閣通路",
+      "flavorText": "「手腳不俐落、肚量特別大的走不了。」\n～裂船灣的奎嘎",
+      "language": "Chinese Traditional",
+      "multiverseId": 495069,
+      "name": "枝閣通路 // 石閣通路",
+      "text": "{T}：加{G}。\n地\n{T}：加{W}。",
+      "type": "地"
+    }
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardKingdomFoilId": "237602",
+    "cardKingdomId": "236916",
+    "mcmId": "494774",
+    "mcmMetaId": "316054",
+    "mtgArenaId": "73470",
+    "mtgjsonV4Id": "fee11642-5eb1-5e1d-970b-3276ca653ab7",
+    "mtgoId": "83513",
+    "multiverseId": "491909",
+    "scryfallId": "0511e232-2a72-40f5-a400-4f7ebc442d17",
+    "scryfallIllustrationId": "90efd67e-c1ee-43dd-8211-1b7a090582b7",
+    "scryfallOracleId": "7c304547-a4b1-46c9-baed-16d2bfbe16eb",
+    "tcgplayerProductId": "221843"
+  },
+  "layout": "modal_dfc",
+  "legalities": {
+    "brawl": "Legal",
+    "commander": "Legal",
+    "duel": "Legal",
+    "future": "Legal",
+    "gladiator": "Legal",
+    "historic": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "pioneer": "Legal",
+    "standard": "Legal",
+    "vintage": "Legal"
+  },
+  "name": "Branchloft Pathway // Boulderloft Pathway",
+  "number": "258",
+  "originalText": "{T}: Add {G}.\n\n\nLand\n{T}: Add {W}.",
+  "originalType": "Land",
+  "otherFaceIds": [
+    "239da818-3951-5513-bb3c-e3deedae10d2"
+  ],
+  "printings": [
+    "PZNR",
+    "SLU",
+    "ZNR"
+  ],
+  "purchaseUrls": {
+    "cardKingdom": "https://mtgjson.com/links/597bcf92cc5f13b4",
+    "cardKingdomFoil": "https://mtgjson.com/links/84d97ec77e46e857",
+    "cardmarket": "https://mtgjson.com/links/178e04a6b6aaee71",
+    "tcgplayer": "https://mtgjson.com/links/491ef32508b7a37a"
+  },
+  "rarity": "rare",
+  "rulings": [
+    {
+      "date": "2020-09-25",
+      "text": "There is a single triangle icon in the top left corner of the front face. There is a double triangle icon in the top left corner of the back face."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "To determine whether it is legal to play a modal double-faced card, consider only the characteristics of the face you’re playing and ignore the other face’s characteristics."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "If an effect allows you to play a specific modal double-faced card, you may cast it as a spell or play it as a land, as determined by which face you choose to play. If an effect allows you to cast (rather than “play”) a specific modal double-faced card, you can’t play it as a land."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "If an effect allows you to play a land or cast a spell from among a group of cards, you may play or cast a modal double-faced card with any face that fits the criteria of that effect."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "The converted mana cost of a modal double-faced card is based on the characteristics of the face that’s being considered. On the stack and battlefield, consider whichever face is up. In all other zones, consider only the front face. This is different than how the converted mana cost of a transforming double-faced card is determined."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "A modal double-faced card can’t be transformed or be put onto the battlefield transformed. Ignore any instruction to transform a modal double-faced card or to put one onto the battlefield transformed."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "If an effect puts a double-faced card onto the battlefield, it enters with its front face up. If that front face can’t be put onto the battlefield, it doesn’t enter the battlefield."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "If an effect instructs a player to choose a card name, the name of either face may be chosen. If that effect or a linked ability refers to a spell with the chosen name being cast and/or a land with the chosen name being played, it considers only the chosen name, not the other face’s name."
+    },
+    {
+      "date": "2020-09-25",
+      "text": "In the Commander variant, a double-faced card’s color identity is determined by the mana costs and mana symbols in the rules text of both faces combined. If either face has a color indicator or basic land type, those are also considered."
+    }
+  ],
+  "setCode": "ZNR",
+  "side": "a",
+  "subtypes": [],
+  "supertypes": [],
+  "text": "{T}: Add {G}.",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "uuid": "6072997d-fb42-5bc9-b7ee-b82f00165c4d",
+  "variations": [
+    "18691760-a467-52fe-ba32-ab6051585479"
+  ]
+}
